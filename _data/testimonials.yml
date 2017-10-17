@@ -1,16 +1,8 @@
-- name: Rose Ray
-  title: CEO-Themefisher
-  testimonial: "This company created an e-commerce site with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray sr.
-  title: CEO-Themefisher
-  testimonial: "An e-commerce site was created by this company with the tools to make our business a success, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray jr.
-  title: CEO-Themefisher
-  testimonial: "With the tools to make our business a success, this company created an e-commerce site, with innovative ideas. We feel that our site has unique elements that make us stand out from the crowd."
-  image: img/item-img1.jpg
-- name: Rose Ray III
-  title: CEO-Themefisher
-  testimonial: "We feel that our site has unique elements that make us stand out from the crowd. This company created an e-commerce site with the tools to make our business a success, with innovative ideas."
-  image: img/item-img1.jpg
+- name: N.G.
+  testimonial: "Bilo je popolnoma sproščujoče, kar odplavala sem globoko vase. Ni me bilo, čas se je kar ustavil. Počutim se fino. Hvala Tamara"
+- name: I.R.
+  testimonial: "Po metamorfni terapiji sem končno bila zmožna narediti velik korak naprej v svojem življenju. Opustila sem težavno situacijo v svojem življenju in odkorakala vstran. Hvala Tamari za podporo."
+- name: M.H.
+  testimonial: "Po refleksoterapiji obraza sem pozabila na stresno delo in se z lahkoto prepustila terapiji. Počutim se »prenovljeno« in pripravljeno na nove službene izzive."
+- name: M.J.
+  testimonial: "Hvala Tamari, da mi je pripomogla. V trenutku je v križnem delu bolečina popustila in lahko sem normalno shodila."
