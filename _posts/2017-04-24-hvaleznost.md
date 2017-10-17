@@ -1,0 +1,23 @@
+---
+layout: post
+title: Hvaležnost - Hvala
+date: 2017-04-24 21:11:27
+author: Tamara
+---
+Mene so besedo Hvala naučili starši. A se spomnite, ko ste bili majhni in ste morali povedati: hvala; 
+dober dan, ko ste vstopili v nek prostor in ko ste odšli smo pomahali z malimi ročicami »papa« ali se odslovili na svidenje. 
+Razumela sem tudi, da ko kar koli dobim v dar, povem Hvala. Moram povedati Hvala, ker se to Spodobi.
+
+![hvala]({{ site.baseurl }}/img/hvaleznost-hvala.jpg)
+
+Kasneje v službi, mi je šef večkrat rekel Hvala, ampak mi ni bilo jasno zakaj. Meni je bilo popolnoma samoumevno, da opravljam svoje delo in zakaj bi se mi zavoljo tega nekdo zahvaljeval. Najhuje je pa bilo, da nisem vedela kako odgovoriti? A naj povem: prosim? Ali je bolje »ni za kaj«? Vse je je zdelo smešno, nakar sem začela uporabljati isto besedo: Hvala Vam!
+Tako sem jo začela uporabljati bolj zavestno in jo vključevala v vsakdanje življenje. Pred letom, sem bila dodatno naučena, kako se zahvaliti iz srca. Spomnim se, da sem prvič prakticirala prav na svoj 30-ti rojstni dan in se vsakomur zahvaljevala iz srca v srce. Ob vsakem daru sem bila globoko hvaležna in z iskricami v očeh ter besedo hvala so se iskrice prižgale tudi na drugi strani. Prav videla sem, kako se je lučka prižgala v drugi osebi, ko je začutila mojo hvaležnost do njenega darila. Nekako je z vsakim dnem postala beseda Hvala del mojega življenja in vsak dan jo uporabljam več in več-krat. Nekako je prišlo tudi do tega, da sem podpis zamenjala z »Hvala«. Hvala iz srca.
+
+
+
+Dobila sem priporočilo za knjigo Čarobnost – Rhonda Byrne; pisateljica, ki je napisala tudi knjigo Skrivnost. Trajalo je kar eno leto, da sem prišla do knjige in jo pričela prebirati. Prav ta knjiga me je  spodbudila k pisanju tega članka. Prijetna in enostavno berljiva. Knjiga, ki te dejansko vodi in te nauči hvaležnosti. Vsakič, ko izrečeš besedico HVALA, dodatno poudari: in ZAČUTITE, OBČUTITE globoko hvaležnost. V tem je (najgloblji) smisel. To, da sem bila v otroštvu naučena besedice hvala, je izredno lepa gesta, ampak ko se zahvališ iz srca, je to nekaj veličastnega; dejansko se da občutiti s celotnim telesom. Ljudje, ki nam izkažejo iskreno in globoko hvaležnost, jih občutimo kot tople, prijazne in srčne. Takrat se tako kot pri nas tako tudi pri njih aktivira hvaležnost. To knjigo priporočam vsem saj menim, da bi morala biti obvezna, ker nas nauči se odlično počutiti v svoji koži. A ni to lepo? A raje vsak dan vstanemo in smo hvaležni, si s tem dvignemo kvaliteto življenja; kar pomeni, da smo zdravi, radostni, veseli, da se nam dogajajo lepe in prijetne stvari. Ali pa raje vstanemo vsak dan zadirčni, nejevoljni in brez energije, kar privede da lahko tudi hitreje zbolimo. Lahko naredite doma poizkus in se en dan obnašate »normalno« po starih navadah, en dan pa vnesete besedico HVALA prav na vsakem koraku. Četudi je kdo prijazen ali neprijazen do vas mu poveste hvala. Zahvalite se za avto ali kolo, ki ga vozite, zahvalite se za hrano, ki jo imate vedno na voljo v izobilju, zahvalite se za ves denar, ki ga imate – četudi je to 5 eur- imate ga! Zahvalite se za pitno vodo, ki jo lahko dobite na vsakem koraku. Na koncu dneva si vzemite 5 minut časa in analizirajte kako ste se počutila 1. dan in kako 2. dan (dan hvaležnosti). Če ste se počutili v 2. dnevu kaj bolje, a nebi tak ritem in navado vnesli kar v vaš vsakdan? Opazili boste, kako se spreminja vaš dan in vaše počutje. Opazili boste tudi, kako se spreminja okolica, na bolje seveda. In tako, bo »vaš svet« postal nekaj popolnoma drugačnega, kot ste ga živeli do sedaj. Če bi se zavedali, kako s pozitivnim razpoloženjem in »pozitivnimi mislimi« ugodno in dobro-bitno vplivamo nase, na okolico in na planet Zemljo, na našo Mati Naravo, bi si VSAK želel spremeniti svoje navade. Saj ni nič drugega kot samo navada vsakdanjika. Da, tako preprosto je. Lahko se vsak dan pritožujemo ali se pa vsak dan ZAHVALIMO.
+
+In zakaj je hvaležnost sploh tako pomembna, kaj je ve tej besedi, da je tako drugačna kot ostale.  Beseda Hvala in Hvaležnost imata visoko vibracijsko stanje, podobno kot Ljubim te in Radost. S takim vibracijskim stanjem, pričaramo našemu telesu Užitek, Harmonijo, Samozdravljenje in Mir.
+
+To niso nobene novodobne modrosti; to so modrosti Zemlje, ki so se prenašale najmočneje preko religije, obredov in ritualov. Zavoljo hitrega urnika, mogoče tudi malomarnosti, smo pozabili na tako pomemben občutek – HVALEŽNOST. Verjamem, da je čas, da ga vrnemo v naš vsakdan.
+Ne pozabite, največ kar lahko naredite je da ste VZOR drugim! Tako sem se tudi jaz »okužila«.
