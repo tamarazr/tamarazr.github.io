@@ -16,10 +16,13 @@ keep_files:
 # Site settings
 title: Airspace
 subtitle: "A free HTML5 agency template"
+<<<<<<< HEAD
 url: "http://urbanzrim.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 #baseurl: ""
 baseurl: "/airspace-jekyll"
+=======
+>>>>>>> 8a24a4f5f256688a5959d0554d8bd3f2fd726eda
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
