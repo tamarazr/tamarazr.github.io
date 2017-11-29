@@ -9,6 +9,7 @@
 @import url(//fonts.googleapis.com/css?family=Open+Sans:400,300,600);
 @import url(//fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(//fonts.googleapis.com/css?family=Volkhov:400italic);
+@import url(//fonts.googleapis.com/css?family=Allura:400,300,600);
 /* var text-decoration */
 /*--
 	Common Css
@@ -120,19 +121,19 @@ font header .navbar-default .navbar-nav li a:hover {
   color: #E3E3E4;
 }
 #slider .block h1 {
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Allura', sans-serif;
   font-weight: 100;
-  font-size: 45px;
+  font-size: 90px;
   line-height: 60px;
-  letter-spacing: 10px;
+  letter-spacing: 14px;
   padding-bottom: 45px;
 }
 #slider .block p {
-  font-size: 23px;
+  font-size: 33px;
   line-height: 40px;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Allura', sans-serif;
   font-weight: 300;
-  letter-spacing: 3px;
+  letter-spacing: 8px;
 }
 /*--
 	wrapper Start
@@ -146,7 +147,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
 }
 #intro .block p {
-  color: #7B7B7B;
+  color: #000000;
   padding-top: 20px;
 }
 #intro .block img {
@@ -158,6 +159,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #intro .section-title p {
   padding-top: 20px;
+    color: black;
 }
 /*--
 	service Start
@@ -171,15 +173,15 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #service .service-item i {
   font-size: 60px;
-  color: #4A4656;
+  color: #000000;
 }
 #service .service-item h4 {
   padding-top: 20px;
   margin: 0;
-  color: #666;
+  color: #000000;
 }
 #service .service-item p {
-  color: #888;
+  color: #000000;
   padding-top: 10px;
   margin: 0;
   font-size: 14px;
@@ -258,7 +260,7 @@ font header .navbar-default .navbar-nav li a:hover {
   margin-bottom: 30px;
 }
 #feature p {
-  color: #8d8f92;
+  color: #000000;
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
