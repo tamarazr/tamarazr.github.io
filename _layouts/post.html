@@ -11,7 +11,24 @@ layout: page
           <div class="block">
             <h1>{{ page.title }}</h1>
             <div class="post-info-wrapper">
-              <p class="italic">Napisal/a <span class="bold">{{ page.author }}</span>, <span class="bold">{{ page.date | date: "%-d %B %Y" }}</span></p>
+              <p class="italic">Napisal/a <span class="bold">{{ page.author }}</span>, 
+                  <span>{% assign m = page.date | date: "%-m" %}
+                {{ page.date | date: "%-d"}}
+                {% case m %}
+                  {% when '1' %}Januar
+                  {% when '2' %}Februar
+                  {% when '3' %}Marec
+                  {% when '4' %}April
+                  {% when '5' %}Maj
+                  {% when '6' %}Junij
+                  {% when '7' %}Julij
+                  {% when '8' %}Avgust
+                  {% when '9' %}September
+                  {% when '10' %}Oktober
+                  {% when '11' %}November
+                  {% when '12' %}December
+                {% endcase %}
+                {{ page.date | date: "%Y" }}</span></p>
             </div>
             <hr />
             <p>{{ content }}</p>
