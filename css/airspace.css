@@ -406,6 +406,14 @@ font header .navbar-default .navbar-nav li a:hover {
   overflow: hidden;
   padding: 80px 0;
 }
+#portfolio-work h1 {
+  font-family: 'Allura', sans-serif;
+  font-weight: 100;
+  font-size: 80px;
+  letter-spacing: 2px;
+  padding-bottom: 20px;
+  color: #692b97;
+}
 #portfolio-work .block .portfolio-menu {
   padding-bottom: 30px;
   text-align: center;
@@ -470,9 +478,9 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-contant ul li {
   float: left;
-  width: 32.22%;
+  width: 25%;
   overflow: hidden;
-  margin: 6px;
+  margin: 30px;
   position: relative;
 }
 #portfolio-work .block .portfolio-contant ul li:hover .overly {
@@ -508,12 +516,13 @@ font header .navbar-default .navbar-nav li a:hover {
   height: auto;
 }
 #portfolio-work .block .portfolio-contant .overly {
+  border-radius: 50%;
   position: absolute;
   top: 0;
   bottom: 0;
   right: 0;
   left: 0;
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(0, 0, 0, 0.5);
   opacity: 0;
   -webkit-transition: .3s all;
   -o-transition: .3s all;
