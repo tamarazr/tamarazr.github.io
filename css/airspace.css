@@ -10,6 +10,7 @@
 @import url(//fonts.googleapis.com/css?family=Roboto:400,100,300,500,700);
 @import url(//fonts.googleapis.com/css?family=Volkhov:400italic);
 @import url(//fonts.googleapis.com/css?family=Allura:400,300,600);
+@import url('https://fonts.googleapis.com/css?family=PT+Sans+Narrow');
 /* var text-decoration */
 /*--
 	Common Css
@@ -54,6 +55,8 @@ a:active {
 }
 .section-title h2 {
   text-transform: uppercase;
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: #692b97;
   font-size: 28px;
   font-weight: 600;
 }
@@ -72,6 +75,7 @@ header {
 header .navbar {
   margin-bottom: 0px;
   border: 0px;
+  font-family: 'Allura'; 
 }
 header .navbar-brand {
   padding-top: 5px;
@@ -84,9 +88,9 @@ header .navbar-default .navbar-nav {
   padding-top: 10px;
 }
 header .navbar-default .navbar-nav li a {
-  color: #333333;
+  color: #566b3d;
   padding: 10px 26px;
-  font-size: 15px;
+  font-size: 25px;
 }
 font header .navbar-default .navbar-nav li a:hover {
   color: #000;
@@ -114,7 +118,6 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #8b86a3, #322e40);
   opacity: 0.8;
 }
 #slider .block {
@@ -122,18 +125,21 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #slider .block h1 {
   font-family: 'Allura', sans-serif;
-  font-weight: 100;
-  font-size: 90px;
+  color: #692b97;
+  font-weight: 300;
+  font-size: 130px;
   line-height: 60px;
   letter-spacing: 14px;
-  padding-bottom: 45px;
+  padding-bottom: 20px;
 }
 #slider .block p {
-  font-size: 33px;
+  font-size: 50px;
   line-height: 40px;
+  color: #692b97;
   font-family: 'Allura', sans-serif;
   font-weight: 300;
   letter-spacing: 8px;
+  padding-left: 45px;
 }
 /*--
 	wrapper Start
@@ -144,6 +150,8 @@ font header .navbar-default .navbar-nav li a:hover {
 #intro .block h2 {
   padding-top: 35px;
   line-height: 27px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: #692b97;
   margin: 0;
 }
 #intro .block p {
@@ -177,8 +185,10 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #service .service-item h4 {
   padding-top: 20px;
+  font-size: 20px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: #692b97;
   margin: 0;
-  color: #000000;
 }
 #service .service-item p {
   color: #000000;
@@ -199,21 +209,11 @@ font header .navbar-default .navbar-nav li a:hover {
   text-align: center;
   color: #fff;
 }
-#call-to-action:before {
-  content: "";
-  position: absolute;
-  left: 0;
-  right: 0;
-  top: 0;
-  bottom: 0;
-  width: 100%;
-  height: 100%;
-  background: #1d192c;
-  opacity: 0.8;
-}
 #call-to-action h2 {
   padding-bottom: 20px;
   line-height: 33px;
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: #F9F5B2;
   margin: 0;
   font-size: 30px;
 }
@@ -255,6 +255,8 @@ font header .navbar-default .navbar-nav li a:hover {
   padding: 100px 0;
 }
 #feature h2 {
+  font-family: 'PT Sans Narrow', sans-serif;
+  color: #692b97;
   font-size: 28px;
   font-weight: 600;
   margin-bottom: 30px;
@@ -315,7 +317,7 @@ font header .navbar-default .navbar-nav li a:hover {
   padding-bottom: 20px;
 }
 #testimonial .testimonial-carousel .user img {
-  padding-bottom: 0px;
+  padding-bottom: 15px;
   border-radius: 500px;
 }
 #testimonial .testimonial-carousel .user p {
@@ -376,7 +378,6 @@ font header .navbar-default .navbar-nav li a:hover {
   right: 0;
   width: 100%;
   height: 100%;
-  background: linear-gradient(to left, #928dab, #1f1c2c 70%);
   opacity: 0.8;
 }
 #global-header .block {
@@ -387,9 +388,11 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #global-header .block h1 {
   font-weight: 100;
-  font-size: 45px;
+  font-size: 65px;
   letter-spacing: 6px;
   padding-bottom: 15px;
+  font-family: 'Allura', sans-serif;
+  color: #692b97;
   margin-top: 0;
   text-transform: capitalize;
 }
@@ -478,7 +481,7 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .portfolio-contant ul li {
   float: left;
-  width: 25%;
+  width: 20%;
   overflow: hidden;
   margin: 30px;
   position: relative;
@@ -543,6 +546,10 @@ font header .navbar-default .navbar-nav li a:hover {
 }
 #portfolio-work .block .mix {
   display: none;
+}
+#portfolio-work .block p {
+  margin-top: 50px;
+  font-family: 'PT Sans Narrow', sans-serif;
 }
 /*--
 	wrapper-work Start
