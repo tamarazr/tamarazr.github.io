@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Refleksoterapija - starodavna znanost
-date: 2017-04-24 21:11:27
+date: 2017-12-20 21:11:27
 author: Tamara
 ---
 Težko je določiti od kje natanko refleksoterapija izvira. Prav zagotovo pa lahko trdimo, da se je obdržala še dan danes in je številnim osebam pomagala pri izboljšanju počutja in vzpostavljanju ravnovesja v telesu.
