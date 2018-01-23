@@ -378,6 +378,7 @@ font header .navbar-default .navbar-nav li a:hover {
 
 #clients-logo-section h2 {
   padding-bottom: 60px;
+    text-align: center;
   line-height: 33px;
   font-family: 'PT Sans Narrow', sans-serif;
   color: #692b97;
