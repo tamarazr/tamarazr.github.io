@@ -369,6 +369,12 @@ font header .navbar-default .navbar-nav li a:hover {
 #clients-logo-section .clients-logo-img {
   padding: 0px 50px;
 }
+#clients-logo-section img {
+    height:100px;
+    width:120px;
+    object-fit:cover;
+    border-radius: 8px;
+}
 
 #clients-logo-section h2 {
   padding-bottom: 60px;
